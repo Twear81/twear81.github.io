@@ -1,0 +1,457 @@
+{
+    "menu":{
+        "american": {
+            "titre": "Nos Americans",
+            "description": "1/2 baguette avec salade/tomates/oignons frits servit avec une frite fraiche en cornet ou mitrailette",
+            "produits": {
+                "fricadelle": {
+                    "titre": "Fricadelle",
+                    "description": "2 Fricadelles de ~75g",
+                    "prix": "8,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fricadellexxl": {
+                    "titre": "Fricadelle XXL",
+                    "description": "Fricadelle geante de 200g",
+                    "prix": "9,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "polycrock": {
+                    "titre": "Polycrock",
+                    "description": "Bâtonnet de poulet frit",
+                    "prix": "8,30",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "pikanto": {
+                    "titre": "Pikanto",
+                    "description": "ca Pique",
+                    "prix": "8,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "mexicanos": {
+                    "titre": "Mexicanos",
+                    "description": "Mexicanos",
+                    "prix": "8,80",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "cervelas": {
+                    "titre": "Cervelas",
+                    "description": "Saucisse",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "spicy": {
+                    "titre": "Spicy",
+                    "description": "Saucisse qui pique",
+                    "prix": "8,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "brochettepoulet": {
+                    "titre": "Brochette Poulet",
+                    "description": "Poulet",
+                    "prix": "8,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "brochetteboeuf": {
+                    "titre": "Brochette Boeuf",
+                    "description": "Brochette de boeuf",
+                    "prix": "9,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "brochettecrisly": {
+                    "titre": "Brochette Crisly",
+                    "description": "Poulet epice",
+                    "prix": "9,20",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "brochettepoisson": {
+                    "titre": "Brochette Poisson",
+                    "description": "poisson en brochette",
+                    "prix": "9,20",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "brochetteardennaise": {
+                    "titre": "Brochette Ardennaise",
+                    "description": "Poulet avec bacon",
+                    "prix": "9,20",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "100boeuf": {
+                    "titre": "100% Boeuf",
+                    "description": "Steak Haché",
+                    "prix": "9,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "bicky": {
+                    "titre": "Bicky",
+                    "description": "Bicky",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "chicken": {
+                    "titre": "Chicken",
+                    "description": "Poulet",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fish": {
+                    "titre": "Fish",
+                    "description": "Poisson simple",
+                    "prix": "9,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                }
+            }
+        },
+        "enfant": {
+            "titre": "Les menus Enfants",
+            "description": "Il en faut aussi pour les petits ! Servie avec 1 petite frite fraiches, une sauce au choix et une compote.",
+            "prix": "6,00",
+            "produits": {
+                "steackhache": {
+                    "titre": "Steak Hache",
+                    "description": "Steak hache de boeuf de 125g",
+                    "prix": "6,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fricadelle": {
+                    "titre": "Fricadelle",
+                    "description": "On sait pas ce qu'il y a dedans mais c'est bon 80g",
+                    "prix": "6,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "poulycrock": {
+                    "titre": "Polycrock",
+                    "description": "Baton de poulet frits",
+                    "prix": "6,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "filetpoulet": {
+                    "titre": "Filet de poulet croquant",
+                    "description": "Baton de poulet",
+                    "prix": "6,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                }
+            }
+        }
+    },
+    "produitseul": {
+        "burger": {
+            "titre": "Nos Burgers",
+            "description": "Sandwich compose de Pain, Salade, Tomates, Oignons frits et sauce au choix",
+            "produits": {
+                "100boeuf": {
+                    "titre": "100% boeuf",
+                    "description": "Steack Hache",
+                    "prix": "5,20",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "chicken": {
+                    "titre": "Chicken",
+                    "description": "Poulet",
+                    "prix": "4,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "bicky": {
+                    "titre": "Bicky",
+                    "description": "Bicky",
+                    "prix": "4,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fish": {
+                    "titre": "Fish",
+                    "description": "Poisson",
+                    "prix": "4,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                }
+            }
+        },
+        "specialite": {
+            "titre": "Nos Specialites",
+            "description": "Decouvrez les specialites de la Belgique",
+            "produits": {
+                "frite": {
+                    "titre": "Frites Fraiches Maison",
+                    "description": "Blanchie a la graisse de boeuf",
+                    "prix": "4,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fricadelle": {
+                    "titre": "Fricadelle",
+                    "description": "On sait pas ce qu'il y a dedans mais c'est bon",
+                    "prix": "3,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fricadellexxl": {
+                    "titre": "Fricadelle XXL",
+                    "description": "On sait pas ce qu'il y a dedans mais c'est bon 200g",
+                    "prix": "5,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "poulycrock": {
+                    "titre": "Polycrock",
+                    "description": "Baton de poulet",
+                    "prix": "4,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "letaco": {
+                    "titre": "Le Taco",
+                    "description": "???",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "crockviande": {
+                    "titre": "Crock Viande",
+                    "description": "???",
+                    "prix": "4,80",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "mexicanos": {
+                    "titre": "Mexicanos",
+                    "description": "???",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "cervelas": {
+                    "titre": "Cervelas",
+                    "description": "Saussice",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "loepiagold": {
+                    "titre": "Loepia Gold",
+                    "description": "???",
+                    "prix": "5,90",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "miniloapia": {
+                    "titre": "Mini Loepia",
+                    "description": "???",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "chickinchilli": {
+                    "titre": "Chick'in Chili",
+                    "description": "???",
+                    "prix": "5,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "spicy": {
+                    "titre": "La Spicy",
+                    "description": "???",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "croquettefromage": {
+                    "titre": "Croquette Fromage x2",
+                    "description": "???",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "minilucifer": {
+                    "titre": "Mini Lucifer",
+                    "description": "???",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "bitterballs": {
+                    "titre": "Bitter Balls",
+                    "description": "???",
+                    "prix": "5,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                }
+            }
+        },
+        "brochette": {
+            "titre": "Nos Brochettes",
+            "description": "Delicieuses brochettes",
+            "produits": {
+                "poulet": {
+                    "titre": "Poulet",
+                    "description": "Poulet",
+                    "prix": "4,80",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "ardennaise": {
+                    "titre": "Ardennaise",
+                    "description": "Poulet frit avec bacon",
+                    "prix": "5,10",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "crisly": {
+                    "titre": "Crisly",
+                    "description": "Poulet epice",
+                    "prix": "5,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "boeuf": {
+                    "titre": "Boeuf Marine",
+                    "description": "Boeuf",
+                    "prix": "5,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "poisson": {
+                    "titre": "Poisson",
+                    "description": "Poisson",
+                    "prix": "5,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                }
+            }
+        },
+        "sauce": {
+            "titre": "Nos Sauces",
+            "description": "Sauce servie dans un cup",
+            "prix": "0,50",
+            "produits": {
+                "algerienne": {
+                    "titre": "Algerienne",
+                    "piquant": true
+                },
+                "andalouse": {
+                    "titre": "Andalouse",
+                    "piquant": true
+                },
+                "americainechef": {
+                    "titre": "Americaine Chef",
+                    "piquant": true
+                },
+                "barbecue": {
+                    "titre": "Barbecue",
+                    "piquant": false
+                },
+                "brazil": {
+                    "titre": "Brazil",
+                    "piquant": false
+                },
+                "burger": {
+                    "titre": "Burger",
+                    "piquant": false
+                },
+                "chti": {
+                    "titre": "Ch'ti",
+                    "piquant": false
+                },
+                "curry": {
+                    "titre": "Curry",
+                    "piquant": false
+                },
+                "dallas": {
+                    "titre": "Dallas",
+                    "piquant": true
+                },
+                "hannibal": {
+                    "titre": "Hannibal",
+                    "piquant": false
+                },
+                "ketchup": {
+                    "titre": "Ketchup",
+                    "piquant": false
+                },
+                "kerozene": {
+                    "titre": "Kerozene",
+                    "piquant": false
+                },
+                "loempia": {
+                    "titre": "Loempia",
+                    "piquant": false
+                },
+                "mayonnaise": {
+                    "titre": "Mayonnaise",
+                    "piquant": false
+                },
+                "moutarde": {
+                    "titre": "Moutarde",
+                    "piquant": true
+                },
+                "pickels": {
+                    "titre": "Pickels",
+                    "piquant": false
+                },
+                "pilipili": {
+                    "titre": "Pili Pili",
+                    "piquant": false
+                },
+                "pita": {
+                    "titre": "Pita (sauce blanche)",
+                    "piquant": false
+                },
+                "poivre": {
+                    "titre": "Poivre",
+                    "piquant": true
+                },
+                "samurai": {
+                    "titre": "Samurai",
+                    "piquant": true
+                },
+                "tartare": {
+                    "titre": "Tartare",
+                    "piquant": false
+                }
+            }
+        },
+        "biere": {
+            "titre": "Les Bieres Belges",
+            "description": "Bieres servie en Belgique",
+            "produits": {
+                "chtiblonde": {
+                    "titre": "Ch'ti Blonde",
+                    "prix": "3,00"
+                },
+                "chtiambree": {
+                    "titre": "Ch'ti Ambree",
+                    "prix": "3,00"
+                },
+                "hoogardenblanche": {
+                    "titre": "Hoogarden Blanche",
+                    "prix": "3,00"
+                },
+                "hoogardenrosee": {
+                    "titre": "Hoogarden Rosee",
+                    "prix": "3,00"
+                },
+                "jeanlainambree": {
+                    "titre": "Jeanlain Ambree",
+                    "prix": "3,00"
+                },
+                "goudale": {
+                    "titre": "Gaudale",
+                    "prix": "3,00"
+                },
+                "kierkcerise": {
+                    "titre": "Kierk Cerise",
+                    "prix": "3,00"
+                }
+            }
+        },
+        "sodacanette": {
+            "titre": "Les sodas",
+            "description": "Canette de 33cl",
+            "prix": "1,60",
+            "produits": {
+                "cocacola": {
+                    "titre": "Coca Cola"
+                },
+                "cocacolazero": {
+                    "titre": "Coca Cola Zero"
+                },
+                "orangina": {
+                    "titre": "Orangina"
+                },
+                "icetea": {
+                    "titre": "Ice tea"
+                },
+                "sprite": {
+                    "titre": "Sprite"
+                },
+                "fanta": {
+                    "titre": "Fanta"
+                },
+                "tropico": {
+                    "titre": "Tropico"
+                },
+                "perrier": {
+                    "titre": "Perrier"
+                }
+            }               
+        }
+    }
+}
