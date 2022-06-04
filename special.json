@@ -1,0 +1,34 @@
+{
+    "menu":{
+        "speciaux": {
+            "titre": "Les menus speciaux",
+            "description": "Seul l'elite ont acces a ces supers menus",
+            "produits": {
+                "fricadelle": {
+                    "titre": "American Fricadelle Classique ou XXL",
+                    "description": "Sauce hanibal",
+                    "prix": "8,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "cricri": {
+                    "titre": "Menu Cricri",
+                    "description": "Bicky Curry sans tomates, sauce hannibal pour les frites",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "chicken": {
+                    "titre": "American Chicken",
+                    "description": "Sauce Chicken-burger ou Barbecue",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "100boeuf": {
+                    "titre": "American 100% boeuf",
+                    "description": "Sauce Brazil ou Chicken burger",
+                    "prix": "9,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                }
+            }
+        }
+    }
+}
