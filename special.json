@@ -4,16 +4,22 @@
             "titre": "Les menus speciaux",
             "description": "Seul l'elite ont acces a ces supers menus",
             "produits": {
-                "fricadelle": {
-                    "titre": "American Fricadelle Classique ou XXL",
-                    "description": "Sauce hanibal",
-                    "prix": "8,70",
-                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
-                },
                 "cricri": {
                     "titre": "Menu Cricri",
                     "description": "Bicky Curry sans tomates, sauce hannibal pour les frites",
                     "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "eddy": {
+                    "titre": "Menu Eddy",
+                    "description": "American cervelas sauce American chef",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fricadelle": {
+                    "titre": "American Fricadelle Classique ou XXL",
+                    "description": "Sauce hannibal",
+                    "prix": "8,70",
                     "imageUrl": "assets/images/menu/burger/burger.jpeg"
                 },
                 "chicken": {
@@ -25,6 +31,90 @@
                 "100boeuf": {
                     "titre": "American 100% boeuf",
                     "description": "Sauce Brazil ou Chicken burger",
+                    "prix": "9,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                }
+            }
+        },
+        "roulette": {
+            "titre": "la roulette",
+            "description": "Que vas tu manger ce soir ?",
+            "produits": {
+                "fricadelle": {
+                    "titre": "American Fricadelle Classique ou XXL",
+                    "description": "Sauce hannibal",
+                    "prix": "8,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "fricadelleSamourai": {
+                    "titre": "American Fricadelle Classique ou XXL",
+                    "description": "Sauce samourai",
+                    "prix": "8,70",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "chickenChickenBurger": {
+                    "titre": "American Chicken",
+                    "description": "Sauce Chicken-burger",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "chickenBarbecue": {
+                    "titre": "American Chicken",
+                    "description": "Sauce barbecue",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "bickyCurry": {
+                    "titre": "American Bicky",
+                    "description": "Sauce curry",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "bickySamourai": {
+                    "titre": "American Bicky",
+                    "description": "Sauce samourai",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "bickyAmericanChef": {
+                    "titre": "American Bicky",
+                    "description": "Sauce American Chef",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "cervelasAmericanChef": {
+                    "titre": "American Cervelas",
+                    "description": "Sauce AmericanChef",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "brochetteArdennaiseBarbecue": {
+                    "titre": "American Brochette Ardennaise",
+                    "description": "Sauce Barbecue",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "mexicanosAndalouse": {
+                    "titre": "American Mexicanos",
+                    "description": "Sauce Andalouse",
+                    "prix": "8,50",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "100boeufBrazil": {
+                    "titre": "American 100% boeuf",
+                    "description": "Sauce Brazil",
+                    "prix": "9,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "100boeufChickenBurger": {
+                    "titre": "American 100% boeuf",
+                    "description": "Sauce Chicken-burger",
+                    "prix": "9,00",
+                    "imageUrl": "assets/images/menu/burger/burger.jpeg"
+                },
+                "100boeufPita": {
+                    "titre": "American 100% boeuf",
+                    "description": "Sauce Pita",
                     "prix": "9,00",
                     "imageUrl": "assets/images/menu/burger/burger.jpeg"
                 }
