@@ -8,13 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code from swaggyP36000/TrollStore-IPAs
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: swaggyP36000/TrollStore-IPAs # Repository B
           path: ipa # Chemin où cloner le dépôt B
 
       - name: Checkout code from here
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          path: main
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,6 +27,7 @@ jobs:
         run: |
           echo "Directories present next to the script:"
           ls 
+          ls ./ipa/
 
       - name: Execute Python script
         run: python newerVersionApp.py
