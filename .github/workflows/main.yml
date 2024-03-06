@@ -1,7 +1,9 @@
 name: Execute Python Script on Master Push
 
 on:
-  workflow_dispatch: 
+ schedule:
+    - cron: '0 0 * * *' # Cette expression CRON déclenche l'exécution tous les jours à minuit
+ workflow_dispatch: 
 
 jobs:
   execute_script:
