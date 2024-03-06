@@ -26,6 +26,12 @@ jobs:
       - name: Execute Python script
         run: python ./main/newerVersionApp.py
 
+      - name: List directories
+        run: |
+          echo "Directories present next to the script:"
+          ls
+          ls ./main
+
       - name: Check if file is modified
         run: |
           cd ./main
