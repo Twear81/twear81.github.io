@@ -21,6 +21,11 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: List directories
+        run: |
+          echo "Directories present next to the script:"
+          ls -d */ 
+
       - name: Execute Python script
         run: python newerVersionApp.py
 
