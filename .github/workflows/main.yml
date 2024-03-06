@@ -28,4 +28,5 @@ jobs:
 
       - name: Check if file is modified
         run: |
+          cd ./main
           git diff --exit-code --quiet || { echo "File has been modified"; git config user.email "actions@github.com"; git config user.name "GitHub Actions"; git add scarlet_apps.json; git commit -m "Update scarlet_apps.json"; git push; }
