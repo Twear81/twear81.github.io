@@ -7,12 +7,13 @@ jobs:
   execute_script:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout code from swaggyP36000/TrollStore-IPAs
         uses: actions/checkout@v2
         with:
-          repository: swaggyP36000/TrollStore-IPAs # Spécifier le dépôt à vérifier
+          repository: swaggyP36000/TrollStore-IPAs # Repository B
+          path: ipa # Chemin où cloner le dépôt B
 
-      - name: Checkout code
+      - name: Checkout code from here
         uses: actions/checkout@v2
 
       - name: Set up Python
