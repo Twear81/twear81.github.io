@@ -12,6 +12,9 @@ jobs:
         with:
           repository: swaggyP36000/TrollStore-IPAs # Spécifier le dépôt à vérifier
 
+      - name: Checkout code
+        uses: actions/checkout@v2
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
