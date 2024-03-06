@@ -33,7 +33,16 @@ jobs:
           echo "main echo"
           ls ./main
 
-      - name: Check if file is modified
+      - name: Check if file is modified and push changes
         run: |
           cd ./main
-          git diff --exit-code --quiet || { echo "File has been modified"; git config user.email "actions@github.com"; git config user.name "GitHub Actions"; git add scarlet_apps.json; git commit -m "Update scarlet_apps.json"; git push; }
+          if [[ $(git status --porcelain) ]]; then
+              echo "File has been modified"
+              git config user.email "actions@github.com"
+              git config user.name "GitHub Actions"
+              git add scarlet_apps.json
+              git commit -m "Update scarlet_apps.json"
+              git push origin main
+          else
+              echo "No changes to commit"
+          fi
