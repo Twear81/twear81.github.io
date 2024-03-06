@@ -1,21 +1,9 @@
-import os
 import json
 
-# Chemin absolu vers le dossier de travail
-workspace_path = os.getenv('GITHUB_WORKSPACE')
-
-# Chemin relatif vers le fichier apps.json dans le dépôt cloné
-input_file_path = os.path.join(workspace_path, 'ipa', 'apps.json')
-
+# Chemin vers le fichier apps.json
+input_file_path = "./ipa/apps.json"  # Remplacez /path/to/apps.json par le chemin réel de votre fichier apps.json
 # Chemin vers le fichier de sauvegarde
-output_file_path = os.path.join(workspace_path, 'scarlet_apps.json')
-
-# Afficher les dossiers présents à côté du script
-current_directory_files = os.listdir(workspace_path)
-print("Dossiers présents à côté du script :")
-for item in current_directory_files:
-    if os.path.isdir(os.path.join(workspace_path, item)):
-        print(item)
+output_file_path = "./scarlet_apps.json"  # Remplacez /path/to/modified_apps.json par le chemin réel de votre fichier de sauvegarde
 
 # Charger les données JSON du fichier
 with open(input_file_path, 'r') as file:
