@@ -1,7 +1,7 @@
 import json
 
 # Chemin vers le fichier apps.json
-input_file_path = ".ipa/apps.json"  # Remplacez /path/to/apps.json par le chemin réel de votre fichier apps.json
+input_file_path = "./ipa/apps.json"  # Remplacez /path/to/apps.json par le chemin réel de votre fichier apps.json
 # Chemin vers le fichier de sauvegarde
 output_file_path = "./scarlet_apps.json"  # Remplacez /path/to/modified_apps.json par le chemin réel de votre fichier de sauvegarde
 
