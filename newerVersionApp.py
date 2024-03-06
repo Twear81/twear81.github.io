@@ -10,6 +10,13 @@ input_file_path = os.path.join(workspace_path, 'ipa', 'apps.json')
 # Chemin vers le fichier de sauvegarde
 output_file_path = os.path.join(workspace_path, 'scarlet_apps.json')
 
+# Afficher les dossiers présents à côté du script
+current_directory_files = os.listdir(workspace_path)
+print("Dossiers présents à côté du script :")
+for item in current_directory_files:
+    if os.path.isdir(os.path.join(workspace_path, item)):
+        print(item)
+
 # Charger les données JSON du fichier
 with open(input_file_path, 'r') as file:
     json_data = file.read()
