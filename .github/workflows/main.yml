@@ -24,7 +24,7 @@ jobs:
       - name: List directories
         run: |
           echo "Directories present next to the script:"
-          ls -d */ 
+          ls 
 
       - name: Execute Python script
         run: python newerVersionApp.py
