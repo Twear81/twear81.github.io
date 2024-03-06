@@ -30,6 +30,7 @@ jobs:
         run: |
           echo "Directories present next to the script:"
           ls
+          echo "main echo"
           ls ./main
 
       - name: Check if file is modified
