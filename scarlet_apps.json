@@ -184,21 +184,6 @@
             ]
         },
         {
-            "name": "YTLitePlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "Balackburn",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.09.3-2.7",
-                    "date": "2024-03-05",
-                    "size": 112170491,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/YTLitePlus-19.09.3-2.7.ipa",
-                    "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 03-05-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "AdobeScanPremium",
             "bundleIdentifier": "com.adobe.scan.ios",
             "developerName": "binnichtaktiv's iPA Library",
@@ -544,21 +529,6 @@
             ]
         },
         {
-            "name": "YTKillerPlusPlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "iKarwan / AppDB",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.08.2-2.4.0",
-                    "date": "2024-03-01",
-                    "size": 111271156,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/YTKillerPlusPlus-19.08.2-2.4.0.ipa",
-                    "localizedDescription": "Primarily maintained on AppDB, this is YTKillerPlus with additional enhancements.\nLast updated: 03-01-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "BeRealBea",
             "bundleIdentifier": "AlexisBarreyat.BeReal",
             "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
@@ -634,51 +604,6 @@
             ]
         },
         {
-            "name": "uYouEnhanced",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "arichornlover / zxcvbn's tweaked IPAs",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.08.2-3.0.3",
-                    "date": "2024-02-28",
-                    "size": 136250546,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/uYouEnhanced-19.08.2-3.0.3.ipa",
-                    "localizedDescription": "Formerly known as uYouPlusExtra. This enhanced version of uYou+ not only incorporates its existing features but also integrates additional functionalities that were initially intended to be included in the original uYou+, but might have been declined during its initial development phase. Full features here.\nLast updated: 02-28-2024\nStatus: \u2705 \ud83d\udc4d"
-                }
-            ]
-        },
-        {
-            "name": "uYouPlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "qnblackcat / AppDB",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.08.2-3.0.3",
-                    "date": "2024-02-28",
-                    "size": 126194273,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/uYouPlus-19.08.2-3.0.3.ipa",
-                    "localizedDescription": "A modified version of uYou with additional features.\nLast updated: 02-28-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
-            "name": "YouTubeiVanced",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "TherionRO / AppDB",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.08.2",
-                    "date": "2024-02-28",
-                    "size": 132283385,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/YouTubeiVanced-19.08.2.ipa",
-                    "localizedDescription": "A fork of uYou/uYouPlus, rolling release with extended life support and likely more unstable.\nLast updated: 02-28-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "InstagramRocket",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Ed0.ipa (IPA NOT CRACKED)",
@@ -705,21 +630,6 @@
                     "size": 34110548,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
                     "localizedDescription": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 02-27-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
-            "name": "YTKillerPlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "iKarwan",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.08.2-2.4.0",
-                    "date": "2024-02-27",
-                    "size": 103348143,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/YTKillerPlus-19.08.2-2.4.0.ipa",
-                    "localizedDescription": "YTKillerPlus offers a range of features including download options for video, audio, shorts, and images, a download manager, import to Photos, ad blocking, background play, HD and 4K video streaming over 3G/4G/5G, PiP, OLED mode for a better dark mode experience, customizable tab bar layout, AppLock settings, iPadOS support, and numerous additional settings.\nLast updated: 02-27-2024\nStatus: \u2705"
                 }
             ]
         },
@@ -885,21 +795,6 @@
                     "size": 81243167,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/WhiteNoisePro-2.0.ipa",
                     "localizedDescription": "Injected with VIP. White Noise Pro includes a variety of sounds in categories ranging from: sleep, meditation, ASMR, lullaby, classical and relaxing music.\nLast updated: 02-25-2024\nStatus: \u2705 \ud83d\udc4d"
-                }
-            ]
-        },
-        {
-            "name": "YouTubeRebornPlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "arichornlover",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.07.5-4.2.5",
-                    "date": "2024-02-25",
-                    "size": 123999281,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/YouTubeRebornPlus-19.07.5-4.2.5.ipa",
-                    "localizedDescription": "YouTube Reborn but with even more features\nLast updated: 02-25-2024\nStatus: \u2705"
                 }
             ]
         },
@@ -1084,21 +979,6 @@
             ]
         },
         {
-            "name": "YouTubeReborn",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "AppDB / DPixel / FayezUpdates / CydiaAbdullah / ipalibrary.me / nowesr1",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.07.5",
-                    "date": "2024-02-23",
-                    "size": 126026836,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-22-2024/YouTubeReborn-19.07.5.ipa",
-                    "localizedDescription": "Youtube, injected with the popular YouTube Reborn tweak\nLast updated: 02-22-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "Kodi",
             "bundleIdentifier": "org.xbmc.kodi-ios",
             "developerName": "CyPwn IPA Library / ArianaMinajj",
@@ -1275,21 +1155,6 @@
                     "size": 125089710,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/CamScannerPremium-6.59.0.ipa",
                     "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 02-15-2024\nStatus: \u2705 \u2b50"
-                }
-            ]
-        },
-        {
-            "name": "YTMusicUltimate",
-            "bundleIdentifier": "com.google.ios.youtubemusic",
-            "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / AppDB / IPAHACK / FayezUpdates / zxcvbn\u2019s tweaked IPAs / DarkWebUser / ginsudev / HertzSign iPA Library",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
-            "versions": [
-                {
-                    "version": "2.0.1-6.39.4",
-                    "date": "2024-02-15",
-                    "size": 96145477,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/YTMusicUltimate-2.0.1-6.39.4.ipa",
-                    "localizedDescription": "It's back! YouTube Music, injected with YTMusicUltimate\nLast updated: 02-15-2024\nStatus: \u2705"
                 }
             ]
         },
@@ -1714,6 +1579,21 @@
             ]
         },
         {
+            "name": "YTKillerPlusPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+            "versions": [
+                {
+                    "version": "19.03.2-2.3.7",
+                    "date": "2024-01-24",
+                    "size": 113387061,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2024/YTKillerPlusPlus-19.03.2-2.3.7.ipa",
+                    "localizedDescription": ""
+                }
+            ]
+        },
+        {
             "name": "ApolloICA",
             "bundleIdentifier": "com.christianselig.Apollo",
             "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
@@ -1995,21 +1875,6 @@
                     "size": 85135314,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/PolishPro-1.6.5.ipa",
                     "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 01-09-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
-            "name": "YTKillerPlusCracked",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "Crack_Sa1",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "18.49.3-2.3.4",
-                    "date": "2024-01-09",
-                    "size": 101672561,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/YTKillerPlusCracked-18.49.3-2.3.4.ipa",
-                    "localizedDescription": "Cracked version of YTKillerPlus. Note: This is a request + support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-09-2024\nStatus: \u2705"
                 }
             ]
         },
@@ -3349,6 +3214,21 @@
             ]
         },
         {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
+            "versions": [
+                {
+                    "version": "1.2.7-5.39.1",
+                    "date": "2023-01-10",
+                    "size": 63776509,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YTMusicUltimate-1.2.7-5.39.1.ipa",
+                    "localizedDescription": ""
+                }
+            ]
+        },
+        {
             "name": "TrollTools",
             "bundleIdentifier": "net.sourceloc.TrollTools",
             "developerName": "sourcelocation",
@@ -3945,6 +3825,36 @@
                     "size": 86639490,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/UberEats.ipa",
                     "localizedDescription": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store\nLast updated: 10-26-2022\nStatus: \u26a0\ufe0f"
+                }
+            ]
+        },
+        {
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-11-10",
+                    "size": 115017943,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/uYouPlus.ipa",
+                    "localizedDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "YouTubeReborn",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-11-10",
+                    "size": 129661988,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/YouTubeReborn.ipa",
+                    "localizedDescription": ""
                 }
             ]
         }
