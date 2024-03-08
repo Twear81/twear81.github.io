@@ -4,6 +4,141 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
+            "name": "AlarmyPremium",
+            "bundleIdentifier": "droom.sleepIfUCanFree",
+            "developerName": "DPixel",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png",
+            "versions": [
+                {
+                    "version": "v24.14.1",
+                    "date": "2024-03-07",
+                    "size": 166425719,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/AlarmyPremium-v24.14.1.ipa",
+                    "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50"
+                }
+            ]
+        },
+        {
+            "name": "ApolloICA",
+            "bundleIdentifier": "com.christianselig.Apollo",
+            "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
+            "versions": [
+                {
+                    "version": "1.15.11-1.0.11",
+                    "date": "2024-03-07",
+                    "size": 108157689,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ApolloICA-1.15.11-1.0.11.ipa",
+                    "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: \u2705 \u2754"
+                }
+            ]
+        },
+        {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+            "versions": [
+                {
+                    "version": "2.2.6-218",
+                    "date": "2024-03-07",
+                    "size": 96424709,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Enmity-2.2.6-218.ipa",
+                    "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 03-07-2024\nStatus: \u2705"
+                }
+            ]
+        },
+        {
+            "name": "MemrisePremium",
+            "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+            "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
+            "versions": [
+                {
+                    "version": "2024.2.21",
+                    "date": "2024-03-07",
+                    "size": 136742945,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/MemrisePremium-2024.2.21.ipa",
+                    "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 03-07-2024\nStatus: \u2705"
+                }
+            ]
+        },
+        {
+            "name": "Otraku",
+            "bundleIdentifier": "com.otraku.app",
+            "developerName": "lotusprey",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png",
+            "versions": [
+                {
+                    "version": "1.2.8+1-ios15.0+",
+                    "date": "2024-03-07",
+                    "size": 9995768,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Otraku-1.2.8%2B1-ios15.0%2B.ipa",
+                    "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 03-07-2024\nStatus: \u2705"
+                }
+            ]
+        },
+        {
+            "name": "PicsArtPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+            "versions": [
+                {
+                    "version": "24.4.2",
+                    "date": "2024-03-07",
+                    "size": 104708547,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/PicsArtPlusPlus-24.4.2.ipa",
+                    "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-07-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
+                }
+            ]
+        },
+        {
+            "name": "ProcreatePocket",
+            "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+            "developerName": "N/A",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png",
+            "versions": [
+                {
+                    "version": "4.0.10",
+                    "date": "2024-03-07",
+                    "size": 300681781,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/ProcreatePocket-4.0.10.ipa",
+                    "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705"
+                }
+            ]
+        },
+        {
+            "name": "Soor",
+            "bundleIdentifier": "me.tanmay.Music",
+            "developerName": "Starfiles / AppDB",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png",
+            "versions": [
+                {
+                    "version": "3.5.3",
+                    "date": "2024-03-07",
+                    "size": 40650672,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/Soor-3.5.3.ipa",
+                    "localizedDescription": "Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50"
+                }
+            ]
+        },
+        {
+            "name": "TrollSpeed",
+            "bundleIdentifier": "ch.xxtou.hudapp",
+            "developerName": "Lessica",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
+            "versions": [
+                {
+                    "version": "1.11.6",
+                    "date": "2024-03-07",
+                    "size": 164163,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/TrollSpeed-1.11.6.ipa",
+                    "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-07-2024\nStatus: \u2705"
+                }
+            ]
+        },
+        {
             "name": "BlackHole",
             "bundleIdentifier": "com.shadow.blackhole1160.ios",
             "developerName": "Sangwan5688",
@@ -139,21 +274,6 @@
             ]
         },
         {
-            "name": "PicsArtPlusPlus",
-            "bundleIdentifier": "com.picsart.studio",
-            "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
-            "versions": [
-                {
-                    "version": "24.4.1",
-                    "date": "2024-03-05",
-                    "size": 104707065,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/PicsArtPlusPlus-24.4.1.ipa",
-                    "localizedDescription": "PicsArt with premium features enbled\nLast updated: 03-05-2024\nStatus: \u2705 \ud83d\udc4d \u2b50"
-                }
-            ]
-        },
-        {
             "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "acquitelol",
@@ -165,21 +285,6 @@
                     "size": 108149339,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/Rosiecord-220.0.ipa",
                     "localizedDescription": "Update: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 03-05-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
-            "name": "YouTubeOLED",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "AppDB / binnichtaktiv's iPA Library",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "19.09.3",
-                    "date": "2024-03-05",
-                    "size": 111377909,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/YouTubeOLED-19.09.3.ipa",
-                    "localizedDescription": "Mainly maintained on AppDB, this youtube is injected with multiple tweaks which are YTADBlock, YouTubePlus, Return Youtube Dislike, YTClassicVideoQuality, YouPiP, iSponsorBlock, YTSystemAppearance, YTABConfig, YTShortsProgress (broken for me), YTUHD (not very stable as its already mentioned), YoutubeExtensions (if sideloaded)\nLast updated: 03-05-2024\nStatus: \u2705"
                 }
             ]
         },
@@ -1084,21 +1189,6 @@
             ]
         },
         {
-            "name": "MemrisePremium",
-            "bundleIdentifier": "com.memrise.ios.memrisecompanion",
-            "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
-            "versions": [
-                {
-                    "version": "2024.2.3",
-                    "date": "2024-02-17",
-                    "size": 136445511,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/MemrisePremium-2024.2.3.ipa",
-                    "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 02-17-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "ScannerProPlus",
             "bundleIdentifier": "com.readdle.Scanner",
             "developerName": "Manpreet Singh @thisismanpreets",
@@ -1159,21 +1249,6 @@
             ]
         },
         {
-            "name": "Enmity",
-            "bundleIdentifier": "com.hammerandchisel.discord",
-            "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-            "versions": [
-                {
-                    "version": "2.2.6-216",
-                    "date": "2024-02-14",
-                    "size": 94889337,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/Enmity-2.2.6-216.ipa",
-                    "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 02-14-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "Helium",
             "bundleIdentifier": "com.leemin.helium",
             "developerName": "leminlimez",
@@ -1215,21 +1290,6 @@
                     "size": 53424159,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AIChatbotGeniePro-6.1.1.ipa",
                     "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 02-10-2024\nStatus: \u2705 \ud83d\udc4d"
-                }
-            ]
-        },
-        {
-            "name": "AlarmyPremium",
-            "bundleIdentifier": "droom.sleepIfUCanFree",
-            "developerName": "DPixel",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png",
-            "versions": [
-                {
-                    "version": "v24.12.2",
-                    "date": "2024-02-10",
-                    "size": 153669264,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-10-2024/AlarmyPremium-v24.12.2.ipa",
-                    "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 02-10-2024\nStatus: \u2705"
                 }
             ]
         },
@@ -1414,21 +1474,6 @@
             ]
         },
         {
-            "name": "TrollSpeed",
-            "bundleIdentifier": "ch.xxtou.hudapp",
-            "developerName": "Lessica",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
-            "versions": [
-                {
-                    "version": "1.11.2",
-                    "date": "2024-01-31",
-                    "size": 159827,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-31-2024/TrollSpeed-1.11.2.ipa",
-                    "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 01-31-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "ESign",
             "bundleIdentifier": "p3.xyz.yyyue.esign",
             "developerName": "CyPwn IPA Library / AppDB",
@@ -1594,21 +1639,6 @@
             ]
         },
         {
-            "name": "ApolloICA",
-            "bundleIdentifier": "com.christianselig.Apollo",
-            "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
-            "versions": [
-                {
-                    "version": "1.15.11-1.0.10",
-                    "date": "2024-01-23",
-                    "size": 108157865,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2024/ApolloICA-1.15.11-1.0.10.ipa",
-                    "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 01-23-2024\nStatus: \u2705 \u2754"
-                }
-            ]
-        },
-        {
             "name": "EhPanda",
             "bundleIdentifier": "zeng.EhPanda",
             "developerName": "EhPanda-Team",
@@ -1680,21 +1710,6 @@
                     "size": 1155049,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-22-2024/TrollStar-1.2.ipa",
                     "localizedDescription": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process compared to Misaka. A tutorial made by Michael can be found here. Note: Read carefully the repo and releases tab for more informations.\nLast updated: 01-22-2024\nStatus: \u2705"
-                }
-            ]
-        },
-        {
-            "name": "Otraku",
-            "bundleIdentifier": "com.otraku.app",
-            "developerName": "lotusprey",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.otraku.app.png",
-            "versions": [
-                {
-                    "version": "1.2.7+2-ios15",
-                    "date": "2024-01-21",
-                    "size": 9941759,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/Otraku-1.2.7%2B2-ios15.ipa",
-                    "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 01-21-2024\nStatus: \u2705"
                 }
             ]
         },
@@ -2055,21 +2070,6 @@
                     "size": 51998703,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PixelWeather-7.0.2.ipa",
                     "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 12-28-2023\nStatus: \u2705 \u2b50"
-                }
-            ]
-        },
-        {
-            "name": "ProcreatePocket",
-            "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
-            "developerName": "Manpreet Singh @thisismanpreets",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png",
-            "versions": [
-                {
-                    "version": "4.0.9",
-                    "date": "2023-12-27",
-                    "size": 296768591,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2023/ProcreatePocket-4.0.9.ipa",
-                    "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is\nLast updated: 12-27-2023\nStatus: \u2705"
                 }
             ]
         },
@@ -2449,21 +2449,6 @@
             ]
         },
         {
-            "name": "Procreate",
-            "bundleIdentifier": "au.com.savageinteractive.procreate",
-            "developerName": "AppDB",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png",
-            "versions": [
-                {
-                    "version": "5.3.6",
-                    "date": "2023-12-01",
-                    "size": 492323229,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Procreate-5.3.6.ipa",
-                    "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is\nLast updated: 12-01-2023\nStatus: \u2705"
-                }
-            ]
-        },
-        {
             "name": "AIEnlargerPro",
             "bundleIdentifier": "com.app.aiimglarger",
             "developerName": "Paisseon / ArianaMinajj",
@@ -2674,21 +2659,6 @@
             ]
         },
         {
-            "name": "YouTubeElite",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "iPAWiND / DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "18.27.3",
-                    "date": "2023-07-11",
-                    "size": 118189805,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/YouTubeElite-18.27.3.ipa",
-                    "localizedDescription": "Sign-in fix does not work unless you install with TrollStore. No solution to that so far. If I'm correctly understanding the description, this is YouTube with DLTube, YouTubeKiller, YouTube Reborn, YouPiP etc. injected As uYou+ is having video/audio download errors (403), this is currently the best modded IPA for YouTube in existence. This also has multiple toggles in the YouTubeKiller, etc. sections that may fix Google sign-in errors Newer versions of this IPA do not include YTKillerPlus. You will have to use Elite v18.02.3 under the 01-24-2023 release if you want YTKillerPlus\nLast updated: 07-11-2023\nStatus: \u274c"
-                }
-            ]
-        },
-        {
             "name": "InstagramElite",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
@@ -2835,21 +2805,6 @@
                     "size": 156849761,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/FacebookMiX-414.0.ipa",
                     "localizedDescription": "injected with both Wolf and TxC\nLast updated: 05-15-2023\nStatus: \u274c"
-                }
-            ]
-        },
-        {
-            "name": "YouTubeEliteSideloadFix",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "zxcvbn",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-            "versions": [
-                {
-                    "version": "18.17.2",
-                    "date": "2023-05-06",
-                    "size": 129479163,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2023/YouTubeEliteSideloadFix-18.17.2.ipa",
-                    "localizedDescription": "As this is not TrollStore related, this will be the only release here since a lot of people came here hoping for a fix. For future updates, please visit zxcvbn's Telegram: https://t.me/zxcvbn_tweaked. Please do not harass the dev, I only include them as a maintainer since they were the ones that figured this out. Yes, the long awaited login fix for those attempting to sideload YouTube Elite, thanks to the efforts of zxcvbn\nLast updated: 05-06-2023\nStatus: \u274c"
                 }
             ]
         },
@@ -3045,21 +3000,6 @@
                     "size": 49671837,
                     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/GasBuddy-700.75.22775.ipa",
                     "localizedDescription": "Full app description here. App that helps you find gas stations near you with the cheapest prices, including some cash-back deals, etc, modded to block all ads\nLast updated: 03-11-2023\nStatus: \u2705"
-                }
-            ]
-        },
-        {
-            "name": "Soor",
-            "bundleIdentifier": "me.tanmay.Music",
-            "developerName": "Starfiles / AppDB",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png",
-            "versions": [
-                {
-                    "version": "3.0.2",
-                    "date": "2023-03-03",
-                    "size": 39246200,
-                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/Soor-3.0.2.ipa",
-                    "localizedDescription": "Soor, free. Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-03-2023\nStatus: \u2705"
                 }
             ]
         },
