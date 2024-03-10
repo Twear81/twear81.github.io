@@ -5,6 +5,36 @@
     },
     "Tweaked": [
         {
+            "name": "Folium",
+            "version": "1.0.5",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Folium-1.0.5.ipa",
+            "category": "Tweaked Apps",
+            "description": "Folium is a multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-09-2024\nStatus: \u2705",
+            "bundleID": "com.antique.Folium",
+            "appstore": "com.antique.Folium",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
+        },
+        {
+            "name": "Snapchatiota",
+            "version": "12.76.1-5.2.2",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Snapchatiota-12.76.1-5.2.2.ipa",
+            "category": "Tweaked Apps",
+            "description": "Snapchat iota is hailed as the ultimate Snapchat tweak, surpassing all other variants possible. Note that this tweak is a premium offering, and it neither currently nor in the future will I provide a cracked version. To support the dedicated developer, Kanji, in his continuous efforts to provide timely and valuable updates, please consider joining his official Discord and purchasing the tweak! Confirmed working with ESign, GBox and TrollStore. In-depth tutorial HERE.\nLast updated: 03-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50 \ud83d\udca1",
+            "bundleID": "com.toyopagroup.picaboo",
+            "appstore": "com.toyopagroup.picaboo",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "StrengthTrainingPro",
+            "version": "2.7.33",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/StrengthTrainingPro-2.7.33.ipa",
+            "category": "Tweaked Apps",
+            "description": "An advanced, PRO, and interactive anatomy and exercises app featuring more than 4000 high-quality 3D videos. It includes science-backed exercises, workout plans, tips, and theoretical knowledge covering muscle, movement, and fitness, designed to elevate your expertise in the field. A user requested it so here it is.\nLast updated: 03-09-2024\nStatus: \u2705",
+            "bundleID": "com.musclemotion.strengthnative",
+            "appstore": "com.musclemotion.strengthnative",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.musclemotion.strengthnative.png"
+        },
+        {
             "name": "BHTikTokPlus",
             "version": "33.7.0-2.3",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/BHTikTokPlus-33.7.0-2.3.ipa",
@@ -423,16 +453,6 @@
             "bundleID": "com.lightricks.Facetune2",
             "appstore": "com.lightricks.Facetune2",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png"
-        },
-        {
-            "name": "Snapchatiota",
-            "version": "12.75.1-5.2.2",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-02-2024/Snapchatiota-12.75.1-5.2.2.ipa",
-            "category": "Tweaked Apps",
-            "description": "Snapchat iota is hailed as the ultimate Snapchat tweak, surpassing all other variants possible. Note that this tweak is a premium offering, and it neither currently nor in the future will I provide a cracked version. To support the dedicated developer, Kanji, in his continuous efforts to provide timely and valuable updates, please consider joining his official Discord and purchasing the tweak! Confirmed working with ESign, GBox and TrollStore. In-depth tutorial HERE.\nLast updated: 03-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50 \ud83d\udca1",
-            "bundleID": "com.toyopagroup.picaboo",
-            "appstore": "com.toyopagroup.picaboo",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
         },
         {
             "name": "SwipewipePremium",
@@ -1009,7 +1029,7 @@
             "version": "1.0.8.5",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/Limon-1.0.8.5.ipa",
             "category": "Tweaked Apps",
-            "description": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK.\nLast updated: 01-27-2024\nStatus: \u2705",
+            "description": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: \u274c",
             "bundleID": "com.antique.Limon",
             "appstore": "com.antique.Limon",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Limon.png"
@@ -1339,7 +1359,7 @@
             "version": "0.0.1.7",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Sudachi-0.0.1.7.ipa",
             "category": "Tweaked Apps",
-            "description": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulkan rendering, coded in C++, Objective-C, and Swift. Note: This is extremely unstable given its super early development stage. Compatibility and gameplay are largely impractical even on an iPhone 15 Pro Max as demonstrated in this video. Please refrain from opening issues here; instead, consider joining their Discord server. The app icon I uploaded is not part of Sudachi.\nLast updated: 01-01-2024\nStatus: \u2705",
+            "description": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulkan rendering, coded in C++, Objective-C, and Swift. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-01-2024\nStatus: \u274c",
             "bundleID": "com.antique.Sudachi",
             "appstore": "com.antique.Sudachi",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Sudachi.png"
