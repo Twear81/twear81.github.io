@@ -5,6 +5,56 @@
     },
     "Tweaked": [
         {
+            "name": "Kodi",
+            "version": "20.5",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/Kodi-20.5.ipa",
+            "category": "Tweaked Apps",
+            "description": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 03-10-2024\nStatus: \u2754",
+            "bundleID": "org.xbmc.kodi-ios",
+            "appstore": "org.xbmc.kodi-ios",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png"
+        },
+        {
+            "name": "NightSkyPlus",
+            "version": "12.2",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/NightSkyPlus-12.2.ipa",
+            "category": "Tweaked Apps",
+            "description": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 03-10-2024\nStatus: \u2705 \u2b50",
+            "bundleID": "com.icandiapps.nightsky",
+            "appstore": "com.icandiapps.nightsky",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png"
+        },
+        {
+            "name": "SnapchatFalcon",
+            "version": "2.1-12.76.1",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/SnapchatFalcon-2.1-12.76.1.ipa",
+            "category": "Tweaked Apps",
+            "description": "Please be aware that using Falcon is at your own risk. This modded version of Snapchat offers additional features like media downloads, ad removal, and anonymous story viewing. You can find the full feature list here.\nLast updated: 03-10-2024\nStatus: \u2754",
+            "bundleID": "com.toyopagroup.picaboo",
+            "appstore": "com.toyopagroup.picaboo",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
+            "name": "TrollRecorder",
+            "version": "1.3.2-20",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
+            "category": "Tweaked Apps",
+            "description": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 03-10-2024\nStatus: \u2705",
+            "bundleID": "wiki.qaq.trapp",
+            "appstore": "wiki.qaq.trapp",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+        },
+        {
+            "name": "UsagePro",
+            "version": "4.20.3",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/UsagePro-4.20.3.ipa",
+            "category": "Tweaked Apps",
+            "description": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 03-10-2024\nStatus: \u2705 \u2b50",
+            "bundleID": "com.olegst.usage",
+            "appstore": "com.olegst.usage",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.olegst.usage.png"
+        },
+        {
             "name": "Folium",
             "version": "1.0.5",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Folium-1.0.5.ipa",
@@ -136,8 +186,8 @@
         },
         {
             "name": "AlarmyPremium",
-            "version": "v24.14.1",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/AlarmyPremium-v24.14.1.ipa",
+            "version": "24.14.1",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-07-2024/AlarmyPremium-24.14.1.ipa",
             "category": "Tweaked Apps",
             "description": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 03-07-2024\nStatus: \u2705 \u2b50",
             "bundleID": "droom.sleepIfUCanFree",
@@ -595,16 +645,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.csj.ling.png"
         },
         {
-            "name": "SnapchatFalcon",
-            "version": "2.1-12.74.0.37",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-26-2024/SnapchatFalcon-2.1-12.74.0.37.ipa",
-            "category": "Tweaked Apps",
-            "description": "Confirmed to work with TrollStore and ESign, do not use Sideloadly. Please be aware that using Falcon is at your own risk. This modded version of Snapchat offers additional features like media downloads, ad removal, and anonymous story viewing. You can find the full feature list here.\nLast updated: 02-26-2024\nStatus: \u2754",
-            "bundleID": "com.toyopagroup.picaboo",
-            "appstore": "com.toyopagroup.picaboo",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
-        },
-        {
             "name": "ImpulsePro",
             "version": "1.30.10",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-25-2024/ImpulsePro-1.30.10.ipa",
@@ -753,16 +793,6 @@
             "bundleID": "com.hammerandchisel.discord",
             "appstore": "com.hammerandchisel.discord",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
-        },
-        {
-            "name": "Kodi",
-            "version": "20.4",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-21-2024/Kodi-20.4.ipa",
-            "category": "Tweaked Apps",
-            "description": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 02-21-2024\nStatus: \u2754",
-            "bundleID": "org.xbmc.kodi-ios",
-            "appstore": "org.xbmc.kodi-ios",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png"
         },
         {
             "name": "ObjectRemoval",
