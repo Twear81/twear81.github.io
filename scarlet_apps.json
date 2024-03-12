@@ -5,6 +5,46 @@
     },
     "Tweaked": [
         {
+            "name": "CarrotWeatherUltra",
+            "version": "5.12.12",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2024/CarrotWeatherUltra-5.12.12.ipa",
+            "category": "Tweaked Apps",
+            "description": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. Enjoy customizable features, including the ability to tailor Carrot's humor to your preference\u2014whether it's friendly, snarky, or dark. Accessible infographics provide at-a-glance information, while detailed meteorological data is just a tap and swipe away. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 03-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+            "bundleID": "com.grailr.CARROTweather",
+            "appstore": "com.grailr.CARROTweather",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "version": "320.0.2-3.8.22",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2024/InstaRocketCracked-320.0.2-3.8.22.ipa",
+            "category": "Tweaked Apps",
+            "description": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-11-2024\nStatus: \u2705",
+            "bundleID": "com.burbn.instagram",
+            "appstore": "com.burbn.instagram",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "LocSim",
+            "version": "1.4.1k",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2024/LocSim-1.4.1k.ipa",
+            "category": "Tweaked Apps",
+            "description": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: \u2705",
+            "bundleID": "com.mika.LocationSimulation",
+            "appstore": "com.mika.LocationSimulation",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
+        },
+        {
+            "name": "Snapchatiota",
+            "version": "12.76.1-5.3.1",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2024/Snapchatiota-12.76.1-5.3.1.ipa",
+            "category": "Tweaked Apps",
+            "description": "Snapchat iota is hailed as the ultimate Snapchat tweak, surpassing all other variants possible. Note that this tweak is a premium offering, and it neither currently nor in the future will I provide a cracked version. To support the dedicated developer, Kanji, in his continuous efforts to provide timely and valuable updates, please consider joining his official Discord and purchasing the tweak! Confirmed working with ESign, GBox and TrollStore. In-depth tutorial HERE.\nLast updated: 03-11-2024\nStatus: \u2705 \ud83d\udc4d \u2b50 \ud83d\udca1",
+            "bundleID": "com.toyopagroup.picaboo",
+            "appstore": "com.toyopagroup.picaboo",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
+        },
+        {
             "name": "Kodi",
             "version": "20.5",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/Kodi-20.5.ipa",
@@ -63,16 +103,6 @@
             "bundleID": "com.antique.Folium",
             "appstore": "com.antique.Folium",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
-        },
-        {
-            "name": "Snapchatiota",
-            "version": "12.76.1-5.2.2",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/Snapchatiota-12.76.1-5.2.2.ipa",
-            "category": "Tweaked Apps",
-            "description": "Snapchat iota is hailed as the ultimate Snapchat tweak, surpassing all other variants possible. Note that this tweak is a premium offering, and it neither currently nor in the future will I provide a cracked version. To support the dedicated developer, Kanji, in his continuous efforts to provide timely and valuable updates, please consider joining his official Discord and purchasing the tweak! Confirmed working with ESign, GBox and TrollStore. In-depth tutorial HERE.\nLast updated: 03-09-2024\nStatus: \u2705 \ud83d\udc4d \u2b50 \ud83d\udca1",
-            "bundleID": "com.toyopagroup.picaboo",
-            "appstore": "com.toyopagroup.picaboo",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
         },
         {
             "name": "StrengthTrainingPro",
@@ -433,16 +463,6 @@
             "bundleID": "com.camerasideas.InstaShot",
             "appstore": "com.camerasideas.InstaShot",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
-        },
-        {
-            "name": "InstaRocketCracked",
-            "version": "320.0.2-3.8.22",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/InstaRocketCracked-320.0.2-3.8.22.ipa",
-            "category": "Tweaked Apps",
-            "description": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-03-2024\nStatus: \u2705",
-            "bundleID": "com.burbn.instagram",
-            "appstore": "com.burbn.instagram",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "iPoGo",
@@ -963,16 +983,6 @@
             "bundleID": "com.gamerdelights.gamepigeon",
             "appstore": "com.gamerdelights.gamepigeon",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gamerdelights.gamepigeon.png"
-        },
-        {
-            "name": "CarrotWeatherUltra",
-            "version": "5.12.9",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-02-2024/CarrotWeatherUltra-5.12.9.ipa",
-            "category": "Tweaked Apps",
-            "description": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. Enjoy customizable features, including the ability to tailor Carrot's humor to your preference\u2014whether it's friendly, snarky, or dark. Accessible infographics provide at-a-glance information, while detailed meteorological data is just a tap and swipe away. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 02-02-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-            "bundleID": "com.grailr.CARROTweather",
-            "appstore": "com.grailr.CARROTweather",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png"
         },
         {
             "name": "PhotomathPlus",
@@ -2423,16 +2433,6 @@
             "bundleID": "uk.co.codingcorner.iFont",
             "appstore": "uk.co.codingcorner.iFont",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/uk.co.codingcorner.iFont.png"
-        },
-        {
-            "name": "LocSim",
-            "version": "1.3.7",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/LocSim-1.3.7.ipa",
-            "category": "Tweaked Apps",
-            "description": "Location spoofer, not affiliated with udevs' locsim\nLast updated: 11-10-2022\nStatus: \u2705",
-            "bundleID": "com.mika.LocationSimulation",
-            "appstore": "com.mika.LocationSimulation",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
         },
         {
             "name": "Mugunghwa",
