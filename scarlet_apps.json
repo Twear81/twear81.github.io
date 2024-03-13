@@ -5,6 +5,56 @@
     },
     "Tweaked": [
         {
+            "name": "BHTikTokPlus",
+            "version": "33.8.0-2.3",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/BHTikTokPlus-33.8.0-2.3.ipa",
+            "category": "Tweaked Apps",
+            "description": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 03-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50",
+            "bundleID": "com.zhiliaoapp.musically",
+            "appstore": "com.zhiliaoapp.musically",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "InstagramNyx",
+            "version": "322.0.1-1.2.2b2",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/InstagramNyx-322.0.1-1.2.2b2.ipa",
+            "category": "Tweaked Apps",
+            "description": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 03-12-2024\nStatus: \u2705",
+            "bundleID": "com.burbn.instagram",
+            "appstore": "com.burbn.instagram",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "LingoDeer",
+            "version": "2.9.17",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/LingoDeer-2.9.17.ipa",
+            "category": "Tweaked Apps",
+            "description": "Injected with Premium. The top app for mastering Asian languages and beyond, trusted by a lot of learners. Expertly crafted lessons ensure efficient and effective learning. Achieve conversational fluency in 12 languages, including Korean, Japanese, Spanish, French, Italian, German, Portuguese, Chinese, Thai, Arabic, Russian, Vietnamese, and English. Full app description here\nLast updated: 03-12-2024\nStatus: \u2705",
+            "bundleID": "com.lingodeer",
+            "appstore": "com.lingodeer",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lingodeer.png"
+        },
+        {
+            "name": "WaterMinderPremium",
+            "version": "6.4.11",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/WaterMinderPremium-6.4.11.ipa",
+            "category": "Tweaked Apps",
+            "description": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-12-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
+            "bundleID": "com.waterminder.waterminder.watchkitapp",
+            "appstore": "com.waterminder.waterminder.watchkitapp",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
+        },
+        {
+            "name": "Watusi3",
+            "version": "24.5.75-1.2.25-3.4.4",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/Watusi3-24.5.75-1.2.25-3.4.4.ipa",
+            "category": "Tweaked Apps",
+            "description": "WhatsApp, injected with Watusi v1.2.25, Stalky v4.1.24, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore. Note: Connection confirmation and \"unofficial\" message issue have been fixed.\nLast updated: 03-12-2024\nStatus: \u2705",
+            "bundleID": "net.whatsapp.WhatsApp",
+            "appstore": "net.whatsapp.WhatsApp",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
+        },
+        {
             "name": "CarrotWeatherUltra",
             "version": "5.12.12",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2024/CarrotWeatherUltra-5.12.12.ipa",
@@ -115,16 +165,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.musclemotion.strengthnative.png"
         },
         {
-            "name": "BHTikTokPlus",
-            "version": "33.7.0-2.3",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/BHTikTokPlus-33.7.0-2.3.ipa",
-            "category": "Tweaked Apps",
-            "description": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 03-08-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50",
-            "bundleID": "com.zhiliaoapp.musically",
-            "appstore": "com.zhiliaoapp.musically",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-        },
-        {
             "name": "BHX",
             "version": "10.31.1-4.3",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/BHX-10.31.1-4.3.ipa",
@@ -175,16 +215,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
-            "name": "InstagramNyx",
-            "version": "321.0-1.2.2b2",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramNyx-321.0-1.2.2b2.ipa",
-            "category": "Tweaked Apps",
-            "description": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 03-08-2024\nStatus: \u2705",
-            "bundleID": "com.burbn.instagram",
-            "appstore": "com.burbn.instagram",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-        },
-        {
             "name": "TikTokDark",
             "version": "33.7.0",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokDark-33.7.0.ipa",
@@ -203,16 +233,6 @@
             "bundleID": "com.zhiliaoapp.musically",
             "appstore": "com.zhiliaoapp.musically",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-        },
-        {
-            "name": "Watusi3",
-            "version": "24.5.4-1.2.25-3.4.4",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/Watusi3-24.5.4-1.2.25-3.4.4.ipa",
-            "category": "Tweaked Apps",
-            "description": "WhatsApp, injected with Watusi v1.2.25, Stalky v4.1.24, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore. Note: Connection confirmation and \"unofficial\" message issue have been fixed.\nLast updated: 03-08-2024\nStatus: \u2705",
-            "bundleID": "net.whatsapp.WhatsApp",
-            "appstore": "net.whatsapp.WhatsApp",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png"
         },
         {
             "name": "AlarmyPremium",
@@ -545,16 +565,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png"
         },
         {
-            "name": "LingoDeer",
-            "version": "2.9.16",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/LingoDeer-2.9.16.ipa",
-            "category": "Tweaked Apps",
-            "description": "Injected with Premium. The top app for mastering Asian languages and beyond, trusted by a lot of learners. Expertly crafted lessons ensure efficient and effective learning. Achieve conversational fluency in 12 languages, including Korean, Japanese, Spanish, French, Italian, German, Portuguese, Chinese, Thai, Arabic, Russian, Vietnamese, and English. Full app description here\nLast updated: 03-01-2024\nStatus: \u2705",
-            "bundleID": "com.lingodeer",
-            "appstore": "com.lingodeer",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lingodeer.png"
-        },
-        {
             "name": "MeituPlusPlus",
             "version": "10.5.0",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/MeituPlusPlus-10.5.0.ipa",
@@ -583,16 +593,6 @@
             "bundleID": "co.visualsupply.cam",
             "appstore": "co.visualsupply.cam",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png"
-        },
-        {
-            "name": "WaterMinderPremium",
-            "version": "6.4.8",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-01-2024/WaterMinderPremium-6.4.8.ipa",
-            "category": "Tweaked Apps",
-            "description": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 03-01-2024\nStatus: \u2705 \ud83d\udc4d \u2b50",
-            "bundleID": "com.waterminder.waterminder.watchkitapp",
-            "appstore": "com.waterminder.waterminder.watchkitapp",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.waterminder.waterminder.watchkitapp.png"
         },
         {
             "name": "BeRealBea",
