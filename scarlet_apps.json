@@ -5,6 +5,86 @@
     },
     "Tweaked": [
         {
+            "name": "DLTikTok",
+            "version": "33.8.0-2.0.5",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/DLTikTok-33.8.0-2.0.5.ipa",
+            "category": "Tweaked Apps",
+            "description": "Requires a license. TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc.\nLast updated: 03-14-2024\nStatus: \u2705",
+            "bundleID": "com.zhiliaoapp.musically",
+            "appstore": "com.zhiliaoapp.musically",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "DLTwitter",
+            "version": "10.32",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/DLTwitter-10.32.ipa",
+            "category": "Tweaked Apps",
+            "description": "Requires a license. EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of BHTwitter, grab it from the 02-11-2023 release. Kinda like DLTikTok, for Twitter. Features include downloading videos, confirm follows & likes/unlikes, disabling typing indicator in DMs, browsing accounts that blocked you, remove ads, etc. Update this from other sources at your own risk, it's a pain in the ass to get it working if a newer version gives you the \"unlicensed\" error. I test these IPAs myself before uploading.\nLast updated: 03-14-2024\nStatus: \u2705",
+            "bundleID": "com.atebits.Tweetie2",
+            "appstore": "com.atebits.Tweetie2",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
+            "name": "InstagramLRD",
+            "version": "322.1.1",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstagramLRD-322.1.1.ipa",
+            "category": "Tweaked Apps",
+            "description": "Not cracked. If you've used TikTokLRD, imagine that but for Instagram. Features include media saving/sharing/previewing (stories included), show follow status, disable typing status, view DMs anonymously, disable ads, FaceID for account switching, etc.\nLast updated: 03-14-2024\nStatus: \u2705",
+            "bundleID": "com.burbn.instagram",
+            "appstore": "com.burbn.instagram",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketBH",
+            "version": "322.1.1-3.8.24",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstaRocketBH-322.1.1-3.8.24.ipa",
+            "category": "Tweaked Apps",
+            "description": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-14-2024\nStatus: \u2705",
+            "bundleID": "com.burbn.instagram",
+            "appstore": "com.burbn.instagram",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "InstaRocketCracked",
+            "version": "322.0.1-3.8.24",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/InstaRocketCracked-322.0.1-3.8.24.ipa",
+            "category": "Tweaked Apps",
+            "description": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-14-2024\nStatus: \u2705 \ud83d\udc4d",
+            "bundleID": "com.burbn.instagram",
+            "appstore": "com.burbn.instagram",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "TikTokDark",
+            "version": "33.8.0",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokDark-33.8.0.ipa",
+            "category": "Tweaked Apps",
+            "description": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 03-14-2024\nStatus: \u2705",
+            "bundleID": "com.zhiliaoapp.musically",
+            "appstore": "com.zhiliaoapp.musically",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TikTokLRD",
+            "version": "3.0-33.8.0",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TikTokLRD-3.0-33.8.0.ipa",
+            "category": "Tweaked Apps",
+            "description": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 03-14-2024\nStatus: \u2705",
+            "bundleID": "com.zhiliaoapp.musically",
+            "appstore": "com.zhiliaoapp.musically",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "TrollRecorder",
+            "version": "1.4.1-30",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
+            "category": "Tweaked Apps",
+            "description": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 03-14-2024\nStatus: \u2705",
+            "bundleID": "wiki.qaq.trapp",
+            "appstore": "wiki.qaq.trapp",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+        },
+        {
             "name": "BeRealBea",
             "version": "1.3.6-2.5.0",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/BeRealBea-1.3.6-2.5.0.ipa",
@@ -40,16 +120,6 @@
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InstagramRocket-322.0.1-3.8.23.ipa",
             "category": "Tweaked Apps",
             "description": "Not cracked. Instagram injected with Rocket. A user requested it so here it is.\nLast updated: 03-13-2024\nStatus: \u2705",
-            "bundleID": "com.burbn.instagram",
-            "appstore": "com.burbn.instagram",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-        },
-        {
-            "name": "InstaRocketCracked",
-            "version": "322.0.1-3.8.23",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/InstaRocketCracked-322.0.1-3.8.23.ipa",
-            "category": "Tweaked Apps",
-            "description": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps\nLast updated: 03-13-2024\nStatus: \u2705 \ud83d\udc4d",
             "bundleID": "com.burbn.instagram",
             "appstore": "com.burbn.instagram",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
@@ -185,16 +255,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
         },
         {
-            "name": "TrollRecorder",
-            "version": "1.3.2-20",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/TrollRecorder-1.3.2-20.ipa",
-            "category": "Tweaked Apps",
-            "description": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 03-10-2024\nStatus: \u2705",
-            "bundleID": "wiki.qaq.trapp",
-            "appstore": "wiki.qaq.trapp",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
-        },
-        {
             "name": "UsagePro",
             "version": "4.20.3",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2024/UsagePro-4.20.3.ipa",
@@ -215,36 +275,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Folium.png"
         },
         {
-            "name": "StrengthTrainingPro",
-            "version": "2.7.33",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-09-2024/StrengthTrainingPro-2.7.33.ipa",
-            "category": "Tweaked Apps",
-            "description": "An advanced, PRO, and interactive anatomy and exercises app featuring more than 4000 high-quality 3D videos. It includes science-backed exercises, workout plans, tips, and theoretical knowledge covering muscle, movement, and fitness, designed to elevate your expertise in the field. A user requested it so here it is.\nLast updated: 03-09-2024\nStatus: \u2705",
-            "bundleID": "com.musclemotion.strengthnative",
-            "appstore": "com.musclemotion.strengthnative",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.musclemotion.strengthnative.png"
-        },
-        {
-            "name": "DLTikTok",
-            "version": "33.7.0-2.0.5",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/DLTikTok-33.7.0-2.0.5.ipa",
-            "category": "Tweaked Apps",
-            "description": "Requires a license. TikTok, enhanced with features including no-watermark video saving, clear UI mode, no ads, etc.\nLast updated: 03-08-2024\nStatus: \u2705",
-            "bundleID": "com.zhiliaoapp.musically",
-            "appstore": "com.zhiliaoapp.musically",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-        },
-        {
-            "name": "DLTwitter",
-            "version": "10.31.1",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/DLTwitter-10.31.1.ipa",
-            "category": "Tweaked Apps",
-            "description": "Requires a license. EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of BHTwitter, grab it from the 02-11-2023 release. Kinda like DLTikTok, for Twitter. Features include downloading videos, confirm follows & likes/unlikes, disabling typing indicator in DMs, browsing accounts that blocked you, remove ads, etc. Update this from other sources at your own risk, it's a pain in the ass to get it working if a newer version gives you the \"unlicensed\" error. I test these IPAs myself before uploading\nLast updated: 03-08-2024\nStatus: \u2705",
-            "bundleID": "com.atebits.Tweetie2",
-            "appstore": "com.atebits.Tweetie2",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
-        },
-        {
             "name": "FacebookWolf",
             "version": "454.0",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/FacebookWolf-454.0.ipa",
@@ -253,36 +283,6 @@
             "bundleID": "com.facebook.Facebook",
             "appstore": "com.facebook.Facebook",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
-        },
-        {
-            "name": "InstagramLRD",
-            "version": "321.0",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/InstagramLRD-321.0.ipa",
-            "category": "Tweaked Apps",
-            "description": "Not cracked. If you've used TikTokLRD, imagine that but for Instagram. Features include media saving/sharing/previewing (stories included), show follow status, disable typing status, view DMs anonymously, disable ads, FaceID for account switching, etc.\nLast updated: 03-08-2024\nStatus: \u2705",
-            "bundleID": "com.burbn.instagram",
-            "appstore": "com.burbn.instagram",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
-        },
-        {
-            "name": "TikTokDark",
-            "version": "33.7.0",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokDark-33.7.0.ipa",
-            "category": "Tweaked Apps",
-            "description": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 03-08-2024\nStatus: \u2705",
-            "bundleID": "com.zhiliaoapp.musically",
-            "appstore": "com.zhiliaoapp.musically",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-        },
-        {
-            "name": "TikTokLRD",
-            "version": "3.0-33.7.0",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2024/TikTokLRD-3.0-33.7.0.ipa",
-            "category": "Tweaked Apps",
-            "description": "TikTok, injected with a version of TikTokLRD (3.0). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 03-08-2024\nStatus: \u2705",
-            "bundleID": "com.zhiliaoapp.musically",
-            "appstore": "com.zhiliaoapp.musically",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "AlarmyPremium",
@@ -753,16 +753,6 @@
             "bundleID": "com.laoyue.whitenoise",
             "appstore": "com.laoyue.whitenoise",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.laoyue.whitenoise.png"
-        },
-        {
-            "name": "InstaRocketBH",
-            "version": "319.0.2-3.8.21",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/InstaRocketBH-319.0.2-3.8.21.ipa",
-            "category": "Tweaked Apps",
-            "description": "Instagram, injected with Rocket Cracked (no ad banner, all features functional) and BH (new). List of BH's features . To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 02-24-2024\nStatus: \u2705",
-            "bundleID": "com.burbn.instagram",
-            "appstore": "com.burbn.instagram",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "AIChatGP",
