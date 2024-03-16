@@ -5,6 +5,66 @@
     },
     "Tweaked": [
         {
+            "name": "Ignited",
+            "version": "1.9",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Ignited-1.9.ipa",
+            "category": "Tweaked Apps",
+            "description": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-15-2024\nStatus: \u2705",
+            "bundleID": "com.litritt.ignited",
+            "appstore": "com.litritt.ignited",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
+        },
+        {
+            "name": "InstagramNyx",
+            "version": "322.1.1-1.2.2",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/InstagramNyx-322.1.1-1.2.2.ipa",
+            "category": "Tweaked Apps",
+            "description": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 03-15-2024\nStatus: \u2705",
+            "bundleID": "com.burbn.instagram",
+            "appstore": "com.burbn.instagram",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "iPoGo",
+            "version": "3.2.6",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/iPoGo-3.2.6.ipa",
+            "category": "Tweaked Apps",
+            "description": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-15-2024\nStatus: \u2705",
+            "bundleID": "com.nianticlabs.pokemongo",
+            "appstore": "com.nianticlabs.pokemongo",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
+        },
+        {
+            "name": "Streamer",
+            "version": "1.2.37",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Streamer-1.2.37.ipa",
+            "category": "Tweaked Apps",
+            "description": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 03-15-2024\nStatus: \u2705",
+            "bundleID": "com.streamer.ios",
+            "appstore": "com.streamer.ios",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
+        },
+        {
+            "name": "Sudachi",
+            "version": "0.0.1.7.6",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Sudachi-0.0.1.7.6.ipa",
+            "category": "Tweaked Apps",
+            "description": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulkan rendering, coded in C++, Objective-C, and Swift. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 03-15-2024\nStatus: \u274c",
+            "bundleID": "com.antique.Sudachi",
+            "appstore": "com.antique.Sudachi",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Sudachi.png"
+        },
+        {
+            "name": "TrollRecorder",
+            "version": "1.4.5-36",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/TrollRecorder-1.4.5-36.ipa",
+            "category": "Tweaked Apps",
+            "description": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 03-15-2024\nStatus: \u2705",
+            "bundleID": "wiki.qaq.trapp",
+            "appstore": "wiki.qaq.trapp",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
+        },
+        {
             "name": "DLTikTok",
             "version": "33.8.0-2.0.5",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/DLTikTok-33.8.0-2.0.5.ipa",
@@ -75,16 +135,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
         },
         {
-            "name": "TrollRecorder",
-            "version": "1.4.1-30",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-14-2024/TrollRecorder-1.4.1-30.ipa",
-            "category": "Tweaked Apps",
-            "description": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5\u20ac license.\nLast updated: 03-14-2024\nStatus: \u2705",
-            "bundleID": "wiki.qaq.trapp",
-            "appstore": "wiki.qaq.trapp",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png"
-        },
-        {
             "name": "BeRealBea",
             "version": "1.3.6-2.5.0",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-13-2024/BeRealBea-1.3.6-2.5.0.ipa",
@@ -153,16 +203,6 @@
             "bundleID": "com.zhiliaoapp.musically",
             "appstore": "com.zhiliaoapp.musically",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
-        },
-        {
-            "name": "InstagramNyx",
-            "version": "322.0.1-1.2.2b2",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-12-2024/InstagramNyx-322.0.1-1.2.2b2.ipa",
-            "category": "Tweaked Apps",
-            "description": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 03-12-2024\nStatus: \u2705",
-            "bundleID": "com.burbn.instagram",
-            "appstore": "com.burbn.instagram",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
         },
         {
             "name": "LingoDeer",
@@ -535,16 +575,6 @@
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png"
         },
         {
-            "name": "iPoGo",
-            "version": "3.2.5",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/iPoGo-3.2.5.ipa",
-            "category": "Tweaked Apps",
-            "description": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED\nLast updated: 03-03-2024\nStatus: \u2705",
-            "bundleID": "com.nianticlabs.pokemongo",
-            "appstore": "com.nianticlabs.pokemongo",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
-        },
-        {
             "name": "MotionleapPro",
             "version": "1.9.23",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2024/MotionleapPro-1.9.23.ipa",
@@ -653,16 +683,6 @@
             "bundleID": "com.fiftythree.paper",
             "appstore": "com.fiftythree.paper",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.fiftythree.paper.png"
-        },
-        {
-            "name": "Streamer",
-            "version": "1.2.36",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2024/Streamer-1.2.36.ipa",
-            "category": "Tweaked Apps",
-            "description": "The Streamer app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 02-27-2024\nStatus: \u2705",
-            "bundleID": "com.streamer.ios",
-            "appstore": "com.streamer.ios",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.streamer.ios.png"
         },
         {
             "name": "Goodnotes6",
@@ -863,16 +883,6 @@
             "bundleID": "xyz.skitty.Aidoku",
             "appstore": "xyz.skitty.Aidoku",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png"
-        },
-        {
-            "name": "Ignited",
-            "version": "1.8.7",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/Ignited-1.8.7.ipa",
-            "category": "Tweaked Apps",
-            "description": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 02-17-2024\nStatus: \u2705",
-            "bundleID": "com.litritt.ignited",
-            "appstore": "com.litritt.ignited",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png"
         },
         {
             "name": "ScannerProPlus",
@@ -1393,16 +1403,6 @@
             "bundleID": "com.wiheads.paste",
             "appstore": "com.wiheads.paste",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.wiheads.paste.png"
-        },
-        {
-            "name": "Sudachi",
-            "version": "0.0.1.7",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2024/Sudachi-0.0.1.7.ipa",
-            "category": "Tweaked Apps",
-            "description": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulkan rendering, coded in C++, Objective-C, and Swift. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-01-2024\nStatus: \u274c",
-            "bundleID": "com.antique.Sudachi",
-            "appstore": "com.antique.Sudachi",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.antique.Sudachi.png"
         },
         {
             "name": "TrollApps",
