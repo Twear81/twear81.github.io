@@ -5,6 +5,26 @@
     },
     "Tweaked": [
         {
+            "name": "BearPro",
+            "version": "2.1.6",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/BearPro-2.1.6.ipa",
+            "category": "Tweaked Apps",
+            "description": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-16-2024\nStatus: \u2705 \u2b50",
+            "bundleID": "net.shinyfrog.bear-iOS",
+            "appstore": "net.shinyfrog.bear-iOS",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
+        },
+        {
+            "name": "DocumentsPlus",
+            "version": "8.10.5",
+            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-16-2024/DocumentsPlus-8.10.5.ipa",
+            "category": "Tweaked Apps",
+            "description": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 03-16-2024\nStatus: \u2705",
+            "bundleID": "com.readdle.ReaddleDocsIPad",
+            "appstore": "com.readdle.ReaddleDocsIPad",
+            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png"
+        },
+        {
             "name": "Ignited",
             "version": "1.9",
             "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-15-2024/Ignited-1.9.ipa",
@@ -473,16 +493,6 @@
             "bundleID": "com.christianselig.Apollo",
             "appstore": "com.christianselig.Apollo",
             "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png"
-        },
-        {
-            "name": "BearPro",
-            "version": "2.1.4",
-            "down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-05-2024/BearPro-2.1.4.ipa",
-            "category": "Tweaked Apps",
-            "description": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 03-05-2024\nStatus: \u2705 \u2b50",
-            "bundleID": "net.shinyfrog.bear-iOS",
-            "appstore": "net.shinyfrog.bear-iOS",
-            "icon": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png"
         },
         {
             "name": "HomeWorkoutPremium",
