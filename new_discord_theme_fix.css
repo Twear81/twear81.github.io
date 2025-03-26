@@ -63,14 +63,14 @@ div[role="list"] {
 
 /* Move up the message/server list part */
 .page_c48ade {
-    height: calc(100% + 25px)!important;
+    height: calc(100% + 25px) !important;
     margin-top: -25px;
     z-index: 1;
     background-color: #2e2e34
 }
 
 /* Move up the message part compared to the text area*/
-.scroller__36d07 customTheme_d125d2 auto_d125d2 scrollerBase_d125d2 disableScrollAnchor_d125d2 managedReactiveScroller_d125d2 {
+.scroller__36d07.customTheme_d125d2.auto_d125d2.scrollerBase_d125d2.disableScrollAnchor_d125d2.managedReactiveScroller_d125d2 {
     margin-bottom: 10px;
 }
 
@@ -80,7 +80,19 @@ div[role="list"] {
     margin-top: 30px;
 }
 
-/* Move up the notice for reconnect */
-.notice__6e2b9 {
-    margin-top: -25px;
+/* Hide nitro and store */
+.channel__972a0.container_e45859:nth-of-type(1),
+.channel__972a0.container_e45859:nth-of-type(2) {
+    display: none;
+}
+
+/* show friends */
+li[aria-posinset="1"].channel__972a0.container_e45859 {
+    display: block;
+}
+
+/* fix top bar height to avoid clicking on it */
+.bar_c38106 {
+    height: 0px;
+    min-width: unset;
 }
