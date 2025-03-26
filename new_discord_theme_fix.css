@@ -1,0 +1,81 @@
+/* Better message text area height */
+:root {
+    --custom-channel-textarea-text-area-height: calc(30px + var(--space-xs));
+}
+
+/* Better margin bottom for message text area */
+.container_c48ade {
+    --custom-chat-input-margin-bottom: 8px;
+}
+
+/* remove offer nitro button */
+.buttons__74017 > button:first-of-type {
+    display: none;
+}
+
+/* remove activity button */
+div.channelAppLauncher_e6e74f {
+    display: none !important;
+}
+
+/* remove Activity dropdown inside the list */
+div[role="list"] .defaultColor__4bd52.text-sm\/medium_cf4812.membersGroup_c8ffbb.container__13cf1:nth-of-type(2) {
+    display: none;
+}
+/* fix height of the list */
+div[role="list"] {
+    height: auto;
+}
+
+/* slightly finner upper right windows toolbar */
+.visual-refresh {
+    --custom-app-top-bar-height: calc(22px + var(--space-sm));
+}
+
+/* move left the research bar */
+.upperContainer__9293f {
+    margin-right: 210px;
+}
+
+/* lighter grey for upper background */
+.layer__960e4.baseLayer__960e4 {
+    background-color: #2e2e34
+}
+/* lighter grey for server list background to keep the same as above */
+.visual-refresh .guilds_c48ade {
+    background-color: #2e2e34
+}
+
+/* Remove useless server title */
+.title_c38106 {
+    display: none;
+}
+
+/* Move up the server list */
+.content_c48ade {
+    margin-top: -25px;
+}
+
+/* Move up server channel/text part (the darker one) */
+.sidebarList_c48ade.sidebarListRounded_c48ade {
+    margin-top: -25px;
+}
+
+/* Move up the message/server list part */
+.page_c48ade {
+    height: calc(100% + 25px)!important;
+    margin-top: -25px;
+    z-index: 1;
+    background-color: #2e2e34
+}
+
+/* Move up the message part compared to the text area*/
+.scroller__36d07 customTheme_d125d2 auto_d125d2 scrollerBase_d125d2 disableScrollAnchor_d125d2 managedReactiveScroller_d125d2 {
+    margin-bottom: 10px;
+}
+
+/* Move down the upper right windows toolbar and make it foreground */
+.trailing_c38106 {
+    z-index: 100;
+    margin-top: 30px;
+}
