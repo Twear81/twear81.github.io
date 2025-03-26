@@ -94,5 +94,5 @@ li[aria-posinset="1"].channel__972a0.container_e45859 {
 /* fix top bar height to avoid clicking on it */
 .bar_c38106 {
     height: 0px;
-    min-width: unset;
+    min-height: unset;
 }
