@@ -96,3 +96,29 @@ li[aria-posinset="1"].channel__972a0.container_e45859 {
     height: 0px;
     min-height: unset;
 }
+
+/* Reverse the layout inside the noise reduction popup for better layout */
+.noiseCancellationPopout_e131a9 {
+    display: flex;
+    flex-direction: column-reverse;
+}
+/* Remove useless margin inside the noise reduction popup */
+.marginBottom4_fd297e {
+    margin-bottom: 0px;
+}
+.container__8f8f8 {
+    margin-bottom: 10px;
+}
+.h5_b717a1.eyebrow_b717a1.title__8f8f8 {
+    margin-top: 0px;
+}
+/* Remove useless text inside the krips popup */
+.note__0d850 {
+    display: none;
+}
+.h5_b717a1.eyebrow_b717a1.marginBottom8_fd297e.marginTop20_fd297e {
+    display: none;
+}
+.flex__7c0ba.horizontal__7c0ba.justifyBetween_abf706.alignStretch_abf706.noWrap_abf706 {
+    display: none;
+}
