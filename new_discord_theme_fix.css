@@ -122,3 +122,7 @@ li[aria-posinset="1"].channel__972a0.container_e45859 {
 .flex__7c0ba.horizontal__7c0ba.justifyBetween_abf706.alignStretch_abf706.noWrap_abf706 {
     display: none;
 }
+
+.flex__7c0ba.horizontal__7c0ba.justifyBetween_abf706.alignStretch_abf706.noWrap_abf706.footer__49fc1.modalFooter_a55fdc.footerSeparator__49fc1 {
+    display: flex
+}
